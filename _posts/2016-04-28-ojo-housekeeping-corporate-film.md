@@ -16,8 +16,8 @@ keywords:
   - ihg
   - madras
 description: 'Corporate film for Ojo Housekeeping. Client: Ojo Housekeeping Director: Manoj Venu Cinematography: Jagadeesh Sridhar Ravichandran Editor: Guru Smaran Grading: Guru Smaran & Manoj Venu Voiceover: Devasena Voiceover Studio: Surang Studio Assistant Director: Anand Ramasamy Assistant Cinematographer: Akash Prakash Music: Acoustic Breeze by BenSound (www.bensound.com)'
-datePublished: '2016-04-28T12:13:31.795Z'
-dateModified: '2016-04-28T12:12:35.666Z'
+datePublished: '2016-04-28T12:15:41.618Z'
+dateModified: '2016-04-28T12:13:43.256Z'
 author:
   - name: Madras Eye Films
     url: 'https://www.youtube.com/user/MadrasEyeFilms'
@@ -61,6 +61,8 @@ app_links:
     namespace: google
     type: ios
 title: Ojo Housekeeping Corporate Film
+sourcePath: _posts/2016-04-28-ojo-housekeeping-corporate-film.md
+published: true
 authors: []
 publisher:
   name: YouTube
@@ -68,8 +70,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-04-28-ojo-housekeeping-corporate-film.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
