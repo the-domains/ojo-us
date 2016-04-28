@@ -23,6 +23,6 @@ color:
     - '#d9c195'
   brandStrength: 0
   lightness: 1
-  saturation: 0.0625
-  rhythmicContrast: 0.5
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
