@@ -1,7 +1,7 @@
 name: ojo.us
 favicon: null
-layout_spectrum: 0.24684
-typography_spectrum: 0.4896
+layout_spectrum: 1
+typography_spectrum: 0.49643
 cta:
   domain: null
   bucket: null
